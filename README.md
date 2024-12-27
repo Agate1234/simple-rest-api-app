@@ -22,6 +22,10 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Pattern Project
+
+Saya sering menggunakan decorator pattern di nest js ini karena decorator pattern sangat sesuai dengan arsitektur NestJS, lebih fleksibel, dan cocok unruk menambahkan fungsi spt validasi, Auth, pada kelas atau handler. Jika ada decorator yang kurang atau tidak ditemukan, kita bisa membuat custom decorator yan dibutuhkan.
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
